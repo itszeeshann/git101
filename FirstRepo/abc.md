@@ -1,1 +1,2 @@
-> This is a basic md file
+This is a basic md file
+Git101 session
